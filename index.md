@@ -30,7 +30,7 @@ My current research interests lie in **Code analysis for smart contracts**, a fi
 
 ---
 
-#### I have developed the following research competency scale:
+## I have developed the following research competency scale:
 
 - **L1: Beginner (Research Novice)**  
    - Lacks both the ability to propose ideas and implement them. A pure research novice.
