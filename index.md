@@ -79,7 +79,7 @@ My current research interests lie in **Code analysis for smart contracts**, a fi
 
 - **November 2024**, Submitted to Journal of Computational Physics(JCP Q1) Paper: Accelerating beam-tracing method with dynamic parallelism on graphics processing units.
 - **November 2024**, Submitted to IEEE Transactions on Network and Service Management(JCP Q1) Paper: Multimodal Fusion for Fraud Detection in Blockchain Transactions Using GCN and BERT.
-- **August 2024**: Submitted to AAAI 2024 Paper: Ethereum Fraud Detection via Joint Transaction Language Model and Graph Representation Learning[PDF](https://arxiv.org/abs/2409.07494).
+- **August 2024**: Submitted to AAAI 2025 Paper: Ethereum Fraud Detection via Joint Transaction Language Model and Graph Representation Learning[PDF](https://arxiv.org/abs/2409.07494).
 - **July 2024**: SPIE(2024) conference paper Accepted: Optimizing Acoustic Field Rendering Through Heterogeneous Computing.
 - **June 2024**：Started research on smart contract code fraud detection in [Prof Yue Duan's group](https://yueduan.github.io/index.html).
 - **March 2024** Started research on Block chain fraud detection in [Haitao Xu's research group](https://person.zju.edu.cn/en/haitaoxu).

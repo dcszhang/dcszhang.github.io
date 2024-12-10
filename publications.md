@@ -15,7 +15,7 @@ title: Publications
    *First Author, Submitted to IEEE Transactions on Network and Service Management(JCP Q1)*
 
 - **Optimizing Acoustic Field Rendering Through Heterogeneous Computing**  
-   *First Author, Accepted at SPCIS 2024 Conference (EI).*
+   *First Author, Accepted at SPCIS 2025 Conference (EI).*
 
 - **Ethereum Fraud Detection via Joint Transsaction Language Model and Graph Representation Learning**  
    *Jia Y, ~Wang Y, Sun J, **Zhang S**. Submitted to AAAI Conference.*  
