@@ -64,14 +64,14 @@ My current research interests lie in **Code analysis for smart contracts**, a fi
 
 #### Current Status and Goals
 
-- **Current Level:** L2  
-   I am currently at the **L2 stage**, where I can implement ideas with full guidance from my advisor and have published my first papers.  
+- **Current Level:** L3  
+   I am currently at the **L3 stage**, where I can effectively implement my advisor's ideas with guidance. My implementation approaches align closely with the advisor’s vision, and I have published papers that demonstrate my growing expertise in the field.  
 
-- **Next Milestone:** L3 and Beyond  
-   By the completion of my current project, I aim to graduate from L2 and move to L3, developing my ability to propose ideas and conduct research with less dependence on guidance.  
+- **Next Milestone:** L4  
+   My goal is to advance to **L4** by completing my current project. I aim to further develop my ability to independently propose innovative ideas, design research plans, and execute experiments with reduced reliance on guidance.  
 
 - **PhD Objective:** Graduate from L4  
-   The core goal of pursuing a PhD is to advance to L4, achieving the ability to independently propose and implement ideas, establish my research identity, and gain recognition in my chosen field.  
+   Through my PhD studies, I aspire to fully achieve **L4**, where I can independently propose and implement ideas, establish my unique research identity, and make significant contributions to my field while gaining broader recognition within the research community.
 
 ---
 
