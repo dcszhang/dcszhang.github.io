@@ -83,6 +83,6 @@ My current research interests lie in **Code analysis for smart contracts**, a fi
 - **July 2024**: SPIE(2024) conference paper Accepted: Optimizing Acoustic Field Rendering Through Heterogeneous Computing.
 - **June 2024**：Started research on smart contract code fraud detection in [Prof Yue Duan's group](https://yueduan.github.io/index.html).
 - **March 2024** Started research on Block chain fraud detection in [Haitao Xu's research group](https://person.zju.edu.cn/en/haitaoxu).
-- **January 2024** A year-long project involving the refactoring of a 7,000-line acoustic industrial software from Fortran to C++ and the CUDA GPU acceleration of its core algorithms was successfully completed! The project is in collaboration with [Prof.Hanbo Jiang of EITech](https://aeroacoustics.cn/).
+- **January 2024** A year-long project involving the refactoring of a 7,000-line acoustic industrial software from Fortran to C++ and the CUDA GPU acceleration of its core algorithms was successfully completed! The project is in collaboration with [Prof.Hanbo Jiang of EITech](https://www.eitech.edu.cn/?tid=32&p=teacher&lang=en).
 
 
