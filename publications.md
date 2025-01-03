@@ -10,24 +10,25 @@ title: Publications
 
 - **Accelerating Beam-Tracing Method with Dynamic Parallelism on Graphics Processing Units**  
    *First Author, Submitted to Journal of Computational Physics(JCP Q1).*
-
+   [PDF]()
 - **Multimodal Fusion for Fraud Detection in Blockchain Transactions Using GCN and BERT**  
    *First Author, Submitted to IEEE Transactions on Network and Service Management(JCP Q1)*
-
+   [PDF]()
 - **Optimizing Acoustic Field Rendering Through Heterogeneous Computing**  
    *First Author, Accepted at [SPCS(2024)](https://www.icspcs.org/) Conference (EI).*
    [PDF](spcs2024.pdf)
 
 - **Ethereum Fraud Detection via Joint Transsaction Language Model and Graph Representation Learning**  
-   *Jia Y, ~Wang Y, Sun J, **Zhang S**. Submitted to AAAI 2025 Conference.*  
+   *Jia Y, ~Wang Y, Sun J, **Zhang S**. Submitted to Information Fusion(JCR Q1)*  
    *Published in: arXiv preprint arXiv:2409.07494, 2024.*
-
-<br>
+   [PDF](Etherum_learning.pdf)
+---
 
 ## Patent
 
 - **ZHANG Sheng, DUAN Lishu, JIANG Hanbo. A dynamic parallel Gaussian beam tracking method based on GPU** [P]. Zhejiang Province: CN118565603A,2024-08-30.
 
+<br>
 ---
 
 ## Ongoing Project
