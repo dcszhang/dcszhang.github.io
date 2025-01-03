@@ -16,12 +16,17 @@ title: Publications
 
 - **Optimizing Acoustic Field Rendering Through Heterogeneous Computing**  
    *First Author, Accepted at [SPCS(2024)](https://www.icspcs.org/) Conference (EI).*
+   [PDF](spcs2024.pdf)
 
 - **Ethereum Fraud Detection via Joint Transsaction Language Model and Graph Representation Learning**  
    *Jia Y, ~Wang Y, Sun J, **Zhang S**. Submitted to AAAI 2025 Conference.*  
    *Published in: arXiv preprint arXiv:2409.07494, 2024.*
 
 <br>
+
+## Patent
+
+- **ZHANG Sheng, DUAN Lishu, JIANG Hanbo. A dynamic parallel Gaussian beam tracking method based on GPU** [P]. Zhejiang Province: CN118565603A,2024-08-30.
 
 ---
 
